@@ -212,7 +212,7 @@ Dieses Dokument analysiert das Agentensystem hinsichtlich:
 **Konkrete Outputs:**
 - Membership-Tier-Strukturen
 - Retention-Kampagnen
-- Exclusive-Content-Kalender
+- Exklusiv-Content-Kalender
 - Churn-Analyse und Gegenmaßnahmen
 
 ### 3.3 Praxisbeispiel: Monetarisierungs-Workflow
