@@ -141,7 +141,7 @@ Dieses Dokument analysiert das Agentensystem hinsichtlich:
 ┌───────────────┐          ┌───────────────┐          ┌───────────────┐
 │• SEO Content  │          │• Landing Pages│          │• Ad Revenue   │
 │• Social Media │          │• A/B Testing  │          │• Affiliate    │
-│• Viral Loops  │          │• UX Optimize  │          │• Subscriptions│
+│• Viral Loops  │          │• UX Optimization│        │• Subscriptions│
 └───────────────┘          └───────────────┘          └───────────────┘
         │                            │                            │
         ▼                            ▼                            ▼
