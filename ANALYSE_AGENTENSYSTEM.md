@@ -286,6 +286,7 @@ Woche 4: Analyse & Skalierung
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
+*Hinweis: Alle Prozentangaben zur „Qualität“ in den obigen Tabellen sind grobe, subjektive Schätzungen auf Basis gängiger Community-Benchmarks und eigener Praxiserfahrung. Sie sind nicht als exakte, standardisierte Messwerte zu verstehen, sondern dienen lediglich der groben Orientierung im Modellvergleich.*
 ### 4.2 Modell-Eignung nach Agenten-Typ
 
 | Agenten-Kategorie | Minimum Modell | Begründung |
