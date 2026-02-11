@@ -427,8 +427,15 @@ Wenn API-Kosten vermieden werden sollen:
 
 ### Schritt 1: Agenten aktivieren
 ```bash
+# Pfad zu Ihrem lokalen Verzeichnis mit den Agency-Agenten anpassen:
+# Beispiel: AGENCY_AGENTS_DIR="$HOME/projects/agency-agents"
+AGENCY_AGENTS_DIR="/home/user/agency-agents"
+
+# Zielverzeichnis für Claude Code Agenten anlegen (falls nicht vorhanden)
+mkdir -p "$HOME/.claude/agents"
+
 # Agenten-Definitionen in Claude Code verfügbar machen
-cp -r /home/user/agency-agents/* ~/.claude/agents/
+cp -r "$AGENCY_AGENTS_DIR"/* "$HOME/.claude/agents"/
 ```
 
 ### Schritt 2: Erste Monetarisierungs-Pipeline
