@@ -419,7 +419,7 @@ Wenn API-Kosten vermieden werden sollen:
 - **Hardware-Investment:** ~$5,000-8,000 (2x RTX 4090 System)
 - **Modell:** Llama 3.1 70B Q4_K_M
 - **Qualitätsverlust:** ~15-20% gegenüber Claude
-- **ROI:** Nach ~70-100 Monaten bei aktuellem API-Verbrauch
+- **ROI (grob geschätzt):** Nach ~70-200 Monaten beim aktuellen API-Verbrauch, ohne Stromkosten, Wartung oder Hardware-Abschreibung zu berücksichtigen
 
 ---
 
