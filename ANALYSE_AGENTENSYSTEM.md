@@ -308,21 +308,24 @@ Woche 4: Analyse & Skalierung
 │  • Qualität: 100% (Referenz)                                        │
 │  • Stärken: Reasoning, Kreativität, Nuancen, Code                   │
 │  • Ideal für: Alle 51 Agenten, besonders Orchestrierung             │
-│  • Kosten: ~$15/$75 pro Million Tokens (Input/Output)               │
+│  • Kosten: Bitte aktuelle Anthropic-API-Preise pro Million Tokens   │
+│    auf der offiziellen Website prüfen                               │
 │                                                                      │
 │  🥈 PREIS-LEISTUNG: Claude Sonnet 4 (API)                           │
 │  ─────────────────────────────────────────                          │
 │  • Qualität: 92-95%                                                 │
 │  • Stärken: Coding, Schnelligkeit, Zuverlässigkeit                  │
 │  • Ideal für: Tägliche Tasks, Developer-Agenten                     │
-│  • Kosten: ~$3/$15 pro Million Tokens                               │
+│  • Kosten: Bitte aktuelle Anthropic-API-Preise pro Million Tokens   │
+│    auf der offiziellen Website prüfen                               │
 │                                                                      │
 │  🥉 BUDGET: Claude Haiku 3.5 (API)                                  │
 │  ─────────────────────────────────                                  │
 │  • Qualität: 80-85%                                                 │
 │  • Stärken: Geschwindigkeit, Kosteneffizienz                        │
 │  • Ideal für: Einfache Tasks, Batch-Verarbeitung                    │
-│  • Kosten: ~$0.25/$1.25 pro Million Tokens                          │
+│  • Kosten: Bitte aktuelle Anthropic-API-Preise pro Million Tokens   │
+│    auf der offiziellen Website prüfen                               │
 │                                                                      │
 │  🏠 LOKAL (Premium): Llama 3.1 405B (Quantized)                     │
 │  ──────────────────────────────────────────────                     │
