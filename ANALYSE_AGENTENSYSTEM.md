@@ -60,7 +60,7 @@ Dieses Dokument analysiert das Agentensystem hinsichtlich:
 
 ## 2. Wiederkehrende Tätigkeiten für Automatisierung
 
-### 2.1 Tägliche Content-Aufgaben (Hohe Automatisierungspotenzial)
+### 2.1 Tägliche Content-Aufgaben (Hohes Automatisierungspotenzial)
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
