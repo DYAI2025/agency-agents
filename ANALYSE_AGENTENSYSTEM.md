@@ -416,7 +416,7 @@ Woche 4: Analyse & Skalierung
 ### 5.3 Alternative: Vollständig Lokal
 
 Wenn API-Kosten vermieden werden sollen:
-- **Hardware-Investment:** ~$5,000-8,000 (2x RTX 4090 System)
+- **Hardware-Investment (grobe Schätzung, abhängig von Markt/Region):** ~$5,000-8,000 für ein komplettes System mit 2× RTX 4090 (inkl. CPU, Mainboard, RAM, Speicher, Netzteil, Kühlung)
 - **Modell:** Llama 3.1 70B Q4_K_M
 - **Qualitätsverlust:** ~15-20% gegenüber Claude
 - **ROI (grob geschätzt):** Nach ~70-200 Monaten beim aktuellen API-Verbrauch, ohne Stromkosten, Wartung oder Hardware-Abschreibung zu berücksichtigen
